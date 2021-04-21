@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Configurations>
+    <Config CompanyName="Customer01" BrokerName="Vendor01" />
+    <Config CompanyName="Customer01" BrokerName="Vendor02" />
+    <Config CompanyName="Customer02" BrokerName="Vendor03" />
+</Configurations>
